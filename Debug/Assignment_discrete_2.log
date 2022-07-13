@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ibrah\Desktop\Assignment_discrete_2\Source.cpp(134,26): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\ibrah\Desktop\Assignment_discrete_2\Source.cpp(457,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Assignment_discrete_2.vcxproj -> C:\Users\ibrah\Desktop\Assignment_discrete_2\Debug\Assignment_discrete_2.exe
