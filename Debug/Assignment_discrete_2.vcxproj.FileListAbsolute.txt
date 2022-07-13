@@ -1,0 +1,4 @@
+C:\Users\ibrah\source\repos\Assignment_discrete_2\Debug\Assignment_discrete_2.exe
+C:\Users\ibrah\source\repos\Assignment_discrete_2\Debug\Assignment_discrete_2.pdb
+C:\Users\ibrah\Desktop\Assignment_discrete_2\Debug\Assignment_discrete_2.exe
+C:\Users\ibrah\Desktop\Assignment_discrete_2\Debug\Assignment_discrete_2.pdb
